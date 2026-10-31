@@ -1,5 +1,26 @@
 PRESIDENT VALUES EDITOR v0.1.1 - SOURCE REVIEW PACKAGE
 
+CURRENT NEXUS UPLOAD — PACKAGING UPDATE
+
+The current Nexus main download is:
+PresidentValuesEditor_v0.1.1_ManualInstall.zip
+
+Size: 42,818,235 bytes
+
+SHA-256:
+5C627974745B2290DFE17A48CD41ECBBF5CCBAF69B2716DAC1393E82BF183CDE
+
+The source-review ZIP in this repository was prepared from the preceding main download, PresidentValuesEditor_v0.1.1.zip, whose SHA-256 is:
+7ACF1C812692DEAABC962C56D1E13485C1BA8A57B530F7AD1A9F399FA842FA04
+
+The current download is a packaging-only cleanup. All 229 installed payload files, all five installer/helper files, editor source, dependency source, licences and notices remain byte-identical to the preceding release. The tested editor DLL remains version 0.1.1 and is unchanged.
+
+The cleanup removed the Nexus page description, uploader instructions and gallery screenshot from the player package. It moved Network_Disclosure.txt to the package root without changing its contents, and regenerated the package checksum list and packaging-validation record.
+
+The source-review ZIP’s origin manifest, original-release checksum records and enclosed README still describe the preceding archive. They are retained as provenance for the unchanged source and components. This note identifies the current Nexus download; it does not claim that the source-review ZIP was rebuilt from that newer package.
+
+Build instructions are included in BUILDING_SOURCE_REVIEW.txt at the root of the source-review ZIP.
+
 PURPOSE
 -------
 This is source and supporting material for review of the President Values
